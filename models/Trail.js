@@ -14,10 +14,7 @@ Trail.init(
     city: {
       type: DataTypes.STRING,
     },
-    zip: {
-      type: DataTypes.STRING,
-    },
-    address: {
+    directions: {
       type: DataTypes.STRING,
     },
     description: {
